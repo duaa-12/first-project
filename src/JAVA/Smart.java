@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-public class SS {
+public class Smart {
 	WebDriver driver = new  ChromeDriver();
 	String Myname="https://smartbuy-me.com/smartbuystore/en/login";
 @BeforeTest
