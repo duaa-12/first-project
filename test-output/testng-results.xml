@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-07T19:17:35 EET" name="Default suite" finished-at="2024-03-07T19:17:47 EET" duration-ms="11646">
+    <groups>
+    </groups>
+    <test started-at="2024-03-07T19:17:35 EET" name="Default test" finished-at="2024-03-07T19:17:47 EET" duration-ms="11646">
+      <class name="JAVA.SS">
+        <test-method is-config="true" signature="MyBeforeTest()[pri:0, instance:JAVA.SS@2072acb2]" started-at="2024-03-07T19:17:35 EET" name="MyBeforeTest" finished-at="2024-03-07T19:17:35 EET" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyBeforeTest -->
+        <test-method signature="MyTest()[pri:0, instance:JAVA.SS@2072acb2]" started-at="2024-03-07T19:17:35 EET" name="MyTest" finished-at="2024-03-07T19:17:47 EET" duration-ms="11554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyTest -->
+      </class> <!-- JAVA.SS -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
